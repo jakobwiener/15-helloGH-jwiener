@@ -20,3 +20,5 @@ Dieses Repository enthält einfache Übungsdateien, die schrittweise bearbeitet 
 ### Lernziel
 
 Am Ende dieses Projekts soll ein sicherer Umgang mit GitHub für grundlegende Entwicklungsprozesse erreicht werden.
+
+Änderung auf lokaler Kopie.
